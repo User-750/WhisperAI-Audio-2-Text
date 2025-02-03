@@ -1,4 +1,4 @@
-A very Basic Audio to Text Converter.
+A Very Basic Audio to Text Converter.
 
 This Project uses the Whisper Automatic Speech Recognition AI model from OpenAI. 
 
